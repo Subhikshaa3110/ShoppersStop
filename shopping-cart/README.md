@@ -35,6 +35,8 @@ You will also see any lint errors in the console.
 The page will  display the contents of db.json file
 
 The above commands should be executed in two different bash terminals.
+![image](https://user-images.githubusercontent.com/84259402/118392792-fcd31000-b658-11eb-9b79-66918999ae18.png)
+
 
 
 
