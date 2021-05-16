@@ -1,0 +1,272 @@
+{
+    "products": [
+        {
+          "id": 1,
+          "sku": "m1",
+          "title": "Sphynx Tie Dye Grey T-Shirt",
+          "description": "Sphynx Tie Dye Grey",
+          "availableSizes": ["XS", "L", "XL", "XXL"],
+          "price": 299,
+          "isFreeShipping": true,
+          "category": "Men"
+        },
+    
+        {
+          "id": 2,
+          "sku": "m2",
+          "title": "Danger Knife Grey T-Shirt",
+          "description": "Danger Knife Grey",
+          "availableSizes": ["XS", "M", "L"],
+          "price": 499,
+          "isFreeShipping": true,
+          "category": "Men"
+        },
+    
+        {
+          "id": 3,
+          "sku": "m3",
+          "title": "White DGK Script Tee",
+          "description": "White DGK Script",
+          "availableSizes": ["XS", "M", "L"],
+          "price": 799,
+          "isFreeShipping": true,
+          "category": "Men"
+        },
+    
+        {
+          "id": 4,
+          "sku": "m4",
+          "title": "Born On The Streets  T-Shirt",
+          "description": "Born On The Streets",
+          "availableSizes": ["XL"],
+          "price": 349,
+          "isFreeShipping": false,
+          "category": "Men"
+        },
+    
+        {
+          "id": 5,
+          "sku": "m5",
+          "title": "Tso 3D Short Sleeve T-Shirt A",
+          "description": "Tso 3D Short Sleeve",
+          "availableSizes": ["XS", "L", "XL"],
+          "price": 529,
+          "isFreeShipping": false,
+          "category": "Men"
+        },
+    
+        {
+          "id": 6,
+          "sku": "m6",
+          "title": "Man Tie Dye Cinza Grey T-Shirt",
+          "description": "Man Tie Dye Cinza Grey",
+          "availableSizes": ["XL", "XXL"],
+          "price": 649,
+          "isFreeShipping": false,
+          "category": "Men"
+        },
+    
+        {
+          "id": 7,
+          "sku": "m7",
+          "title": "Crazy Monkey Black T-Shirt",
+          "description": "1977 Infantil",
+          "availableSizes": ["S"],
+          "style": "Preto com listras brancas",
+          "price": 999,
+          "isFreeShipping": true,
+          "category": "Men"
+        },
+    
+        {
+          "id": 8,
+          "sku": "m8",
+          "title": "Tso 3D Black T-Shirt",
+          "description": "",
+          "availableSizes": ["S","XL"],
+          "style": "Azul escuro",
+          "price": 459,
+          "isFreeShipping": false,
+          "category": "Men"
+        },
+        {
+          "id": 9,
+          "sku": "m9",
+          "title": "Crazy Monkey Grey",
+          "description": "",
+          "availableSizes": ["S","L", "XL"],
+          "price": 389,
+          "isFreeShipping": true,
+          "category": "Men"
+        },
+        {
+            "id": 10,
+            "sku": "w1",
+            "title": "Trendy Fab Maxi",
+            "description": "",
+            "availableSizes": ["S","L", "XL"],
+            "price": 599,
+            "isFreeShipping": true,
+            "category": "Women"
+          },
+          {
+            "id": 11,
+            "sku": "w2",
+            "title": "MultiColor Frock",
+            "description": "",
+            "availableSizes": ["S","XL"],
+            "style": "Azul escuro",
+            "price": 459,
+            "isFreeShipping": false,
+            "category": "Women"
+          },
+          {
+            "id": 12,
+            "sku": "w3",
+            "title": "Casual Summer Dress",
+            "description": "1977 Infantil",
+            "availableSizes": ["S"],
+            "style": "Preto com listras brancas",
+            "price": 999,
+            "isFreeShipping": true,
+            "category": "Women"
+          },
+          {
+            "id": 13,
+            "sku": "w4",
+            "title": "Style Polka dot lapel collar dress",
+            "description": "Style Polka dot lapel collar dress",
+            "availableSizes": ["XS", "L", "XL", "XXL"],
+            "price": 699,
+            "isFreeShipping": false,
+            "category": "Women"
+          },
+          {
+            "id": 14,
+            "sku": "w5",
+            "title": "Western Party Dress",
+            "description": "Western Party Dress winter collection",
+            "availableSizes": ["XS", "L", "XL"],
+            "price": 529,
+            "isFreeShipping": false,
+            "category": "Women"
+          },
+          {
+            "id": 15,
+            "sku": "w6",
+            "title": "Woolen Designer Kurti",
+            "description": "Woolen Designer Kurti winter",
+            "availableSizes": ["XL","XXL","M"],
+            "price": 349,
+            "isFreeShipping": false,
+            "category": "Women"
+          },
+          {
+            "id": 16,
+            "sku": "w7",
+            "title": "tagged kurti",
+            "description": "woolen tagged kurti",
+            "availableSizes": ["XS", "M", "L"],
+            "price": 799,
+            "isFreeShipping": true,
+            "category": "Women"
+          },
+          {
+            "id": 17,
+            "sku": "k1",
+            "title": "Pink Party Frock",
+            "description": "Pink Party Frock",
+            "availableSizes": ["S","M","L"],
+            "style": "Preto com listras brancas",
+            "price": 999,
+            "isFreeShipping": true,
+            "category": "Kids"
+          },
+          {
+            "id": 18,
+            "sku": "k2",
+            "title": "jumpsuit striped",
+            "description": "jumpsuit striped",
+            "availableSizes": ["XS", "M", "L"],
+            "price": 499,
+            "isFreeShipping": true,
+            "category": "Kids"
+          },
+          {
+            "id": 19,
+            "sku": "k3",
+            "title": "Kurta pajama for boys",
+            "description": "Kurta pajama for boys",
+            "availableSizes": ["S","M","XL"],
+            "style": "Indian",
+            "price": 849,
+            "isFreeShipping": true,
+            "category": "Kids"
+          },
+          {
+            "id": 20,
+            "sku": "k4",
+            "title": "3 piece suit",
+            "description": "3 piece suit",
+            "availableSizes": ["XS","S","L"],
+            "style": "Western",
+            "price": 999,
+            "isFreeShipping": true,
+            "category": "Kids"
+          },
+          {
+            "id": 21,
+            "sku": "k5",
+            "title": "Printed art silk gown",
+            "description": "",
+            "availableSizes": ["S","L", "XL"],
+            "price": 1499,
+            "isFreeShipping": true,
+            "category": "Kids"
+          },
+          {
+            "id": 22,
+            "sku": "k6",
+            "title": "Boys Party Wear",
+            "description": "Boys Party Wear",
+            "availableSizes": ["XL","XXL","M"],
+            "price": 349,
+            "isFreeShipping": false,
+            "category": "Kids"
+          },
+          {
+            "id": 23,
+            "sku": "k7",
+            "title": "Sea kids gown",
+            "description": "",
+            "availableSizes": ["S","XL"],
+            "style": "Azul escuro",
+            "price": 459,
+            "isFreeShipping": false,
+            "category": "Kids"
+          },
+          {
+            "id": 24,
+            "sku": "k8",
+            "title": "Cindrella dress",
+            "description": "Western Party Dress winter collection",
+            "availableSizes": ["XS", "L", "XL"],
+            "price": 899,
+            "isFreeShipping": false,
+            "category": "Kids"
+          },
+          {
+          "id": 25,
+          "sku": "k9",
+          "title": "Girls Denim dress",
+          "description": "",
+          "availableSizes": ["S","M","XS","XL"],
+          "style": "Western",
+          "price": 459,
+          "isFreeShipping": false,
+          "category": "Kids"
+        }
+
+      
+      ]
+}
