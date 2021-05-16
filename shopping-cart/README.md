@@ -2,13 +2,13 @@
 
 This project is a mini version of e-commerce application.
 
-Features available :-
+Features available :-\
     # Search bar which will do a keyword based search\
     # Filter the products based on category (Men/Women/Kids)\
     # Filter the products based on size\
     # Sort the products based on Price\
     # An option to add items to the cart\
-    # Remove items from the cart\
+    # Remove items from the cart
 
 
 # Getting Started with Create React App
